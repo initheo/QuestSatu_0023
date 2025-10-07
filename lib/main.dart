@@ -58,6 +58,8 @@ class MyHomePage extends StatelessWidget {
               "Nama: Muqoffin",
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
+            SizedBox(height: 5),
+            Text("Kelas: B"),
           ],
         ),
       ),
