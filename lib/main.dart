@@ -60,6 +60,8 @@ class MyHomePage extends StatelessWidget {
             ),
             SizedBox(height: 5),
             Text("Kelas: B"),
+            SizedBox(height: 5),
+            Text("NIM: 3012310023", style: TextStyle(color: Colors.red)),
           ],
         ),
       ),
